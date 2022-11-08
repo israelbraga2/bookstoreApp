@@ -1,0 +1,27 @@
+<form>
+    <h1>ATUALIZANDO LIVRO</h1>
+      <mat-form-field class="form">
+        <mat-label class="labelCor" >Título</mat-label>
+        <input matInput class="inputCor" [(ngModel)]="livro.titulo" [formControl]="titulo" required type="text" name="titulo" placeholder="Ex. Spring Boot com Angular 10" maxlength="100">
+        <mat-error *ngIf="titulo.invalid">{{ getMessageTitulo() }}</mat-error>
+      </mat-form-field>
+
+      <mat-form-field class="form">
+          <mat-label class="labelCor">Nome do Autor</mat-label>
+          <input matInput class="inputCor" [(ngModel)]="livro.nome_autor" [formControl]="nome_autor" required type="text" name="nome_autor"  placeholder="Ex. Valdir César" maxlength="100">
+          <mat-error *ngIf="nome_autor.invalid">{{ getMessageAutor() }}</mat-error>
+        </mat-form-field>
+
+        <mat-form-field class="form">
+            <mat-label class="labelCor">Texto</mat-label>
+            <textarea matInput class="inputCor" [(ngModel)]="livro.texto" [formControl]="texto" required type="text" name="texto"  placeholder="Ex. Lorem Ipsum" maxlength="2000000"></textarea>
+            <mat-error *ngIf="texto.invalid">{{ getMessageTexto() }}</mat-error>
+          </mat-form-field>
+
+        <div class="button">
+          <button (click)="update()" [disabled] = "verificaCamposPreenchidos()" class="mat-elevation-z8" mat-raised-button >ATUALIZAR</button>
+          <button (click)="cancel()" class="mat-elevation-z8" mat-raised-button color="warn">CANCELAR</button>
+        </div>
+    </form>
+  
+

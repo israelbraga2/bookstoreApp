@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 c4df01822c9af8053825633818da2cea2b8a86c6 israelbraga2 <ibraga1003@gmail.com> 1664901737 -0300	commit (initial): initial commit
+c4df01822c9af8053825633818da2cea2b8a86c6 1cbce0a9d6c83b052bc1896983aae8421fa4f124 israelbraga2 <ibraga1003@gmail.com> 1664903125 -0300	commit: Angular material instalado no projeto
+1cbce0a9d6c83b052bc1896983aae8421fa4f124 a956d39c4a36fc2d1144e2c81b785f1d6ee40654 israelbraga2 <ibraga1003@gmail.com> 1664905741 -0300	commit: Home implementado com rota
+a956d39c4a36fc2d1144e2c81b785f1d6ee40654 fcc20d6da76fe9683ac496683d3601b1bd76b8dc israelbraga2 <ibraga1003@gmail.com> 1664908933 -0300	commit: CategoriaRead implementado
+fcc20d6da76fe9683ac496683d3601b1bd76b8dc ef8b2ecbd626e6e997097960a8bed217147c1cb2 israelbraga2 <ibraga1003@gmail.com> 1664915220 -0300	commit: Ajustes no component read
+ef8b2ecbd626e6e997097960a8bed217147c1cb2 e9d7616cd5e172818eb811b6cdd2ba8e36f7e55c israelbraga2 <ibraga1003@gmail.com> 1664995712 -0300	commit: Métodos create implementado para categoria
+e9d7616cd5e172818eb811b6cdd2ba8e36f7e55c d196e45ad8d35eb5cfb77d55ac0a1cf73ee42d30 israelbraga2 <ibraga1003@gmail.com> 1664995934 -0300	commit: Finalizando o metodo create
+d196e45ad8d35eb5cfb77d55ac0a1cf73ee42d30 4c1fc3a8f3dfc756fa63746952bcfcd8a177e585 israelbraga2 <ibraga1003@gmail.com> 1665000180 -0300	commit: Categoria delete implementada
+4c1fc3a8f3dfc756fa63746952bcfcd8a177e585 770557f2e0f741b3d096ddba9928a186456efceb israelbraga2 <ibraga1003@gmail.com> 1665164691 -0300	commit: UPDATE para categoria foi implementado
+770557f2e0f741b3d096ddba9928a186456efceb e672157e3d2f9a9ee538bcaa67c69dbd56c7cd3f israelbraga2 <ibraga1003@gmail.com> 1665167179 -0300	commit: leitura de todos os livros por categoria implementado
+e672157e3d2f9a9ee538bcaa67c69dbd56c7cd3f 2a0a995b6176a249ff2eea2111793db9e480bf54 israelbraga2 <ibraga1003@gmail.com> 1665500247 -0300	commit: UPDATE para livro implementado
+2a0a995b6176a249ff2eea2111793db9e480bf54 e7a3d25b1cb2edbfcb8e1674233f3d6ba915eee5 israelbraga2 <ibraga1003@gmail.com> 1665510153 -0300	commit: Método DELETE implementado
+e7a3d25b1cb2edbfcb8e1674233f3d6ba915eee5 237dfbf50f34e3e27c387a50d1970a7f67af106e israelbraga2 <ibraga1003@gmail.com> 1665511806 -0300	commit: LivroRead implementado
+237dfbf50f34e3e27c387a50d1970a7f67af106e e66b19997aa4c28eebeb79a5dcf05829e34202f6 israelbraga2 <israelbraga2@gmail.com> 1667224208 -0300	commit: atualizando baseUrl

@@ -1,0 +1,33 @@
+.container{
+    height: 85%;
+   /* background-color: #F3604C;*/    
+  
+    background:linear-gradient(rgba(0, 0, 0, 0.60),
+    rgba(0, 0, 0, 0.60)),
+    url(https://raw.githubusercontent.com/Poojavpatel/BookStoreApp/master/img/b.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    
+    
+}
+a:hover{
+    color: #F7E652;
+   
+
+}
+
+i {
+    padding-right: .6rem;
+    color: #100a14;
+}
+
+
+
+
+.mat-drawer{
+    background-color:#bace2594;
+   
+}
+.item-nav {
+    color: aliceblue;
+}

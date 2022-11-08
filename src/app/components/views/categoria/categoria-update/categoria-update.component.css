@@ -1,0 +1,33 @@
+form {
+    text-align: center;
+    width: 70%;
+    margin: 2rem auto 0;
+    color: rgba(255, 255, 255, 0.726);
+}
+
+h1{
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 3rem;
+    color: #FFFFFF;
+}
+
+.form{
+    width: 100%;
+   
+}
+.labelNome{
+    color: wheat;
+}
+
+.button {
+    width: 100%;
+    text-align: start;
+}
+button{
+    margin-right: .5rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    background-color: #261133;
+    color: #f7e652;
+}
